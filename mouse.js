@@ -1,4 +1,4 @@
 function mouse(name){
     this.name = name;
 }
-module.exprots.cat = {}
+module.exprots=mouse
